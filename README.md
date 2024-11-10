@@ -1,6 +1,10 @@
-## EXNO-3-DS
-NAME: V mythili 212223040123
-DEPT: CSE
+
+<H3>NAME: V MYTHILI</H3>
+<H3>REG NO: 212223040123</H3>
+<H3>EX NO: 3</H3>
+
+# Feature Encoding and Transformation
+
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
